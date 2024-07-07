@@ -1,4 +1,4 @@
-# LP2-sojourn
+# LP2-belize
 A supervised machine learning project to predict customer churn
 
 # **Predicting Customer Churn** 
